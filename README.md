@@ -15,6 +15,3 @@
 ## Preview
 
 Coming soon
-
-# Support
-<a href='https://discord.gg/JrggK9jwQZ'></a>
